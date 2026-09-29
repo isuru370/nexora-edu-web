@@ -250,7 +250,7 @@
                         {{-- Description --}}
                         <p
                             class="animate-fade-up delay-200 mt-6 max-w-2xl text-base leading-8 text-slate-600 sm:text-lg">
-                            වසර 6කට වැඩි කාලයක් තිස්සේ සංවර්ධනය කර භාවිතයේ පවතින
+                            වසර 6කට වැඩි කාලයක් පුරා දිනෙන් දින වැඩිදියුනු වෙමින් පවතින
                             <span class="font-semibold text-slate-900">nexoraEDU</span> සමඟ Students, Teachers, Classes,
                             Attendance,
                             Payments සහ Financial Management එකම platform එකකින්
